@@ -1,0 +1,15 @@
+{
+  "name": "xl_canvasc_combine_img",
+  "description": "利用canvas，将图片和文字合成一张图片",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "",
+  "author": "xiaolong",
+  "license": "ISC",
+  "dependencies": {
+
+  }
+}
